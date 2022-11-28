@@ -10,7 +10,7 @@ audio::-webkit-media-controls-play-button,
   height: 100%;
   border: 10px inset green;
   background-size: contain;
-  background-color: red; /* goldenrod; */
+  background-color: goldenrod;
 }
 audio::-webkit-media-controls-current-time-display,
 audio::-webkit-media-controls-time-remaining-display,
