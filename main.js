@@ -1,4 +1,4 @@
-const playIcon = document.getElementById('play-icon');
+const playIcon = document.getElementsByClassName('play-audio')[0];
 
 playIcon.addEventListener('click', () => {
   const audioFilename = location.hash.replace('#','') || 'fart-1.mp3';
