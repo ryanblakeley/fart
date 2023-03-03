@@ -1,13 +1,12 @@
-body { margin: 0 2vw; background-color: floralwhite; }
+body { margin: 0; background-color: floralwhite; }
 h3 { margin: 0; }
-div.play-audio-container { margin: 0 0 10px 0; width: 96vw; }
+div.play-audio-container { margin: 0 0 10px 0; width: 100vw; }
 button.play-audio {
-  border-radius: 0;
-  border: 2vw inset green;
+  border: none;
   background-color: goldenrod;
-  width: 90vw;
-  height: 75vh;
-  font-size: 170px;
+  width: 100vw;
+  height: 90vh;
+  font-size: 150px;
   color: green;
 }
 a.audio-file { margin: 1vh 0; }
